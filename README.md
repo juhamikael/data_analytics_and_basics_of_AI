@@ -9,4 +9,4 @@
   !pip install pandas
 ```
 
-Made with PyCharm Professional (Integrated Jupyter Notebook) but you can run Jupyter notebooks in online version
+Made with PyCharm Professional (Integrated Jupyter Notebook) but these can be ran Jupyter Notebooks in online version
