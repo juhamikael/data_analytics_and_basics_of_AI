@@ -1,6 +1,7 @@
 # Assignments
 ## FINNISH
-## T1. file `departments.ipynb`
+## T1. 
+### file `departments.ipynb`
 ```
 Lue employees.csv ja departments.csv tiedostot kahteen erilliseen pandas dataframeen. 
 Otsikot ensimmäisellä rivillä, ja erotinmerkkinä pilkku (','). 
@@ -18,7 +19,8 @@ Tämä on dataframe, jota jatkossa käytetään.
 Poista image sarake dataframesta
 ```
 
-# T2. `departments.ipynb`
+## T2: 
+### file `departments.ipynb`
 ```
 -   Laske montako työntekijää on dataframessa
 -   Laske montako miestä (gender=0) ja naista (gender=1) on työtekijöissä
@@ -54,7 +56,8 @@ Luo korrelaatiomatriisi käyttäen pandasin corr-metodia. Visualisoi matriisi käyt
 Vaihdetaan aineistoja.
 ```
 
-# T3. `titanic.ipynb`
+## T3. 
+### file `titanic.ipynb`
 ```
 -   Lataa Titanic csv tiedostot pythoniin pandas dataframeen (Titanic_data.csv, Titanic_names.csv)
 -   Tulosta ipyhon consoliin dataframien info ja describe. 
@@ -69,7 +72,8 @@ Vaihdetaan aineistoja.
 -   Kuinka monta nollan ikäistä matkustajaa?
 ```
 
-# T4:`titanic.ipynb`
+## T4:
+### file `titanic.ipynb`
 ```
 -   Huomataan, että on paljon nollan ikäisiä matkustajia. 
     Lasketaan ei-nollan ikäisten matkustajien keski-ikä, ja päivitetään nollan 
@@ -83,7 +87,8 @@ Vaihdetaan aineistoja.
 
 # ENGLISH
 
-# T1. `departments.ipynb`
+## T1. 
+### file `departments.ipynb`
 ```
 Read the employees.csv and departments.csv files into two separate pandas dataframes. 
 Headers on the first line, with a comma (',') as a delimiter. 
@@ -100,7 +105,8 @@ This is the dataframe that will be used in the future.
 
 Remove the image column from the dataframe
 ```
-# T2.  `departments.ipynb`
+## T2.  
+### file `departments.ipynb`
 ```
 -   Calculate the number of employees in the dataframe
 -   Count how many men (gender=0) and women (gender=1) are in the workforce
@@ -137,7 +143,8 @@ Create a correlation matrix using the corr method of pandas. Visualise the matri
 Exchange the data.
 ```
 
-# T3. `titanic.ipynb`
+## T3. 
+### file `titanic.ipynb`
 ```
 -   Upload Titanic csv files to python in pandas dataframe (Titanic_data.csv, Titanic_names.csv)
 -   Print the info and describe of the dataframe to ipyhon console. 
@@ -152,7 +159,8 @@ Exchange the data.
 -   How many passengers with age zero?
 ```
 
-# T4:`titanic.ipynb`
+## T4:
+### file `titanic.ipynb`
 ```
 -   Note that there are many passengers aged zero. 
     Calculate the average age of non-zero passengers, and update to zero. 
